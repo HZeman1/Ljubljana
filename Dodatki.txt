@@ -1,0 +1,2 @@
+dotnet ef dbcontext scaffold "Server=localhost;Database=LjubljanaDelo;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o /
+Server=localhost;Database=master;Trusted_Connection=True;
