@@ -1,2 +1,4 @@
 dotnet ef dbcontext scaffold "Server=localhost;Database=LjubljanaDelo;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o /
 Server=localhost;Database=master;Trusted_Connection=True;
+
+Baza je ustvarjena v SMSS, z IIS Express. Rezred Vozilo se dobi s postopkom scaffoldinga.
